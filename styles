@@ -1,0 +1,145 @@
+
+
+body{
+  font-family: 'Montserrat';
+}
+
+h1{
+   font-family: 'Montserrat';  font-size: 3.5rem;  line-height: 1.5;  font-weight: 900;
+}
+h2{
+  color: white;
+  font-family: Montserrat;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+  padding: 3% 15%;
+}
+.pebbles{
+  color: white;
+  font-family: Montserrat;
+  font-style: italic;
+}
+.container-fluid{
+
+  background-color: #ef4f4f;
+
+}
+/* Navigation bar*/
+
+.navbar -light .navbar-nav .nav-link {
+    margin-top: 60px;
+    position: relative;
+    right: 20rem;
+}
+
+.navbar-brand
+{
+  font-size: 2.5rem;
+  position: relative;
+  top:30px;
+  font-family: 'Ubuntu';
+
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+
+}
+
+.col-lg-6{
+  margin: 10% auto;
+}
+.intro{
+  color: white;
+}
+
+.navbar-nav{
+  font-size: 1.5rem;
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: silver;
+    padding: 0 18px;
+    position: relative;
+    right: 17rem;
+    font-family: "Montserrat-Light";
+    font-size: 1.2rem;
+}
+
+
+
+.doggy{
+
+  transform: rotate(20deg);
+
+}
+
+
+.btn-1{
+  position: relative;
+  top: 1rem;
+}
+
+.btn-2{
+position: relative;
+left: 1rem;
+top: 1rem;
+
+}
+
+/* part 2*/
+
+.col-lg-4{
+margin: 10% auto 5% auto;
+text-align: center;
+font-family: "Montserrat";
+font-size: 1.5rem;
+
+color: #8f8f8f;
+
+}
+
+.emoji{
+  width: 15%;
+
+
+}
+h3{
+  font-weight: bold;
+  color: black;
+
+}
+
+#testimonials{
+  text-align: center;
+  padding: 7% 15%;
+  background-color: #ef4f4f;
+
+}
+.golden{
+  border-radius: 100%;
+  width: 13%;
+  padding: 20px;
+}
+.testimonial-image{
+  border-radius: 100%;
+  width: 13%;
+  padding: 20px;
+
+}
+
+#press{
+  background-color: #ef4f4f;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.sponsor{
+  margin: 20px 20px 50px;
+  width: 12%;
+    text-align: center;
+}
+.place{
+  color: white;
+}
