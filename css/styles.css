@@ -214,6 +214,7 @@ h5{
   transform: rotate(20deg);
   position: absolute;
   right: 30%;
+  max-width: 100%;
 }
 
 
