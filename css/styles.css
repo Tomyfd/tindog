@@ -249,7 +249,7 @@ text-align: center;
 margin: auto;
 }
 
-@media (max-width: 400px)
+@media (max-width: 600px)
 {
   .btn-1{
     font-size: 10px;
