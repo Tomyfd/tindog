@@ -249,15 +249,12 @@ text-align: center;
 margin: auto;
 }
 
-
-
-@media (max-width: 949px) {
-  .division{
-
-    }
-
-
-  #footer{
-
+@media (max-width: 400px)
+{
+  .btn-1{
+    font-size: 10px;
+  }
+  .btn-2{
+    font-size: 10px;
   }
 }
