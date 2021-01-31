@@ -179,7 +179,7 @@ h5{
 #cta{
   background-color: #ff4c68;
   text-align: center;
-  height:  250px;
+  padding: 7% 15%;
 
 }
 
@@ -188,6 +188,9 @@ position: relative;
 top:30%;
 max-width: 100%;
 font-family: "Montserrat-black";
+font-size: 3.5rem;
+line-height: 1.5;
+
 color: white;
 }
 #footer{
