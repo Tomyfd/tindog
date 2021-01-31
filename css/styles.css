@@ -8,6 +8,19 @@ h1, h2,h3,h4,h5,h6 {
 
 }
 
+/******* Sections **************/
+
+.background-colored{
+    background-color: #ef4f4f;
+    color: white;
+}
+
+.background-plain{
+  background-color: #fff
+  color: black;
+}
+
+
 .testimonial-text {
   color: white;
 
@@ -46,7 +59,7 @@ font-weight: 900;
 }
 
 .container-fluid {
-  background-color: #ef4f4f;
+
   padding: 7% 15% 7%;
 }
 
@@ -124,10 +137,6 @@ font-weight: 900;
 
 
 
-#testimonials {
-
-  background-color: #ef4f4f;
-}
 
 .golden {
   border-radius: 100%;
@@ -142,7 +151,6 @@ font-weight: 900;
 }
 
 #press {
-  background-color: #ef4f4f;
   padding-bottom: 3%;
 }
 
@@ -179,10 +187,7 @@ font-weight: 900;
 
 
 
-#cta {
-  background-color: #ff4c68;
 
-}
 
 .final {
   position: relative;
@@ -195,7 +200,6 @@ font-weight: 900;
 }
 
 #footer {
-  background-color: #fff;
   height: 100px;
 }
 
@@ -321,6 +325,7 @@ font-weight: 900;
     .doggy {
       position: static;
       transform: rotate(0);
+        margin: auto;
     }
     .btn-2 {
       font-size: 10px;
